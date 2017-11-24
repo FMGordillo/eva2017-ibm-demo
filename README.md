@@ -25,7 +25,7 @@ We gave to you the tools and documentation to start developing your dialog flow.
 When you fell comfortable with what you've created, go to `Assets/Scripts/GameManager.cs` and edit the Watson variables using your service credentials (you can get it on the [IBM Cloud dashboard](https://console.bluemix.net/dashboard/apps/)).
 
 ## Contributing
-We welcome all the love that you could give us! Please read [CONTRIBUTING](https://github.com/FMGordillo/eva2017-ibm-demo/CONTRIBUTING.md) for more information about the process for submitting pull requests.
+We welcome all the love that you could give us! Please read [CONTRIBUTING](https://github.com/FMGordillo/eva2017-ibm-demo/blob/master/CONTRIBUTING.md) for more information about the process for submitting pull requests.
 
 ## Authors
 - Facundo Martin Gordillo - *Joiner and speaker* - ([Twitter](https://www.twitter.com/FMGordillo), [Linkedin](www.linkedin.com/in/fmgordillo))
@@ -33,7 +33,7 @@ We welcome all the love that you could give us! Please read [CONTRIBUTING](https
 - Nicolas Finamore - *Initial work* - ([Twitter](https://twitter.com/Nicolasie_), [Linkedin](https://www.linkedin.com/in/nicolasie/))
 
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md]() file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/FMGordillo/eva2017-ibm-demo/blob/master/LICENSE) file for details
 
 ## TODOs
 - Persist on [Cloudant](https://www.ibm.com/cloud/cloudant) all dialogs for future analytics (main code is already there, we need to insert a dependency to handle JSONs).
