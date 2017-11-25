@@ -3,6 +3,8 @@
 Based on [2D Roguelike Tutorial](https://unity3d.com/es/learn/tutorials/s/2d-roguelike-tutorial), we've created a dialog between a troll and you, the player, using [Watson Conversation](https://www.ibm.com/watson/services/conversation/).
 The mission? Save a princess. How? Solving three riddles. Why? Because it's fun, I guess.
 
+We've used the [Watson and Unity SDK](https://github.com/watson-developer-cloud/unity-sdk) to connect Watson and our game, so try it! There are examples
+
 ## Getting started
 If you don't mind using this project, instead of starting from scratch, you need to build your Watson Conversation first.
 
